@@ -1,5 +1,5 @@
 export const students =[
-    {id : 1, name : "abbosbek"},
+    {id : 1, name : "Abbosbek"},
     {id : 2, name : "Asadbek"},
     {id : 3, name : "Azamatbek"},
     {id : 4, name : "Muzaffar"},
@@ -9,6 +9,6 @@ export const students =[
     {id : 8, name : "Jabbor"},
     {id : 9, name : "Eshmat"},
     {id : 10, name : "Toshmat"},
-    {id : 11, name : "ali"},
+    {id : 11, name : "Ali"},
     {id : 12, name : "Vali"},
 ];
